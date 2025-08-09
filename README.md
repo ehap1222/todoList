@@ -1,2 +1,2 @@
-# react_exam
-ReactJS concepts, including components, routes, context, hooks, and APIs. Answer all questions carefully to demonstrate your knowledge and practical coding skills.
+# todoList
+Simple To-Do List application built using HTML, CSS, and JavaScript. Allows users to add, delete, and mark tasks as completed.
